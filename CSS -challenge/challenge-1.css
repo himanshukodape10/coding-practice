@@ -1,0 +1,67 @@
+body{
+    
+
+    background: linear-gradient(90deg, rgb(0, 21, 44) 10%, rgb(56, 0, 61) 60%);
+}
+.main-div{
+    text-align: center;
+      margin-top: 30px;
+}
+.button-1{
+    
+    background-color: rgba(41, 43, 56, 0.685);
+    color: white;
+    font-size: 6px;
+    width: 104px;
+    height: 18px;
+    padding-bottom: 3px;
+    border-radius: 50px;
+    border: 0.1px solid  rgba(68, 68, 68, 0.504);
+    cursor: pointer;
+
+}
+.sub-button:hover{
+    background-color: rgb(109, 2, 109);
+}
+.sub-button{
+    background-color: rgba(54, 48, 83, 0.756);  
+    display: inline-block;
+    width: 14px;
+    height: 8px;
+    border: none ;
+    border-radius: 8px;
+    padding-top: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.text-1{
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+
+}
+.text-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7px;
+    color: white;
+}
+.button-2:hover{
+    background: linear-gradient(70deg, hsla(211, 96%, 62%, 10) 0%, rgb(242, 136, 251) 70%);
+}
+
+.button-2{
+    width: 60px;
+    height: 20px;
+    font-size: 6px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    background: hsla(211, 96%, 62%, 1);
+cursor: pointer;
+background: linear-gradient(90deg, hsla(211, 96%, 62%, 10) 0%, rgb(242, 136, 251) 150%);
+
+
+
+}
